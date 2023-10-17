@@ -1,3 +1,5 @@
+#If you are using Replit then make sure that the file name is main.py
+
 # Import the OpenAI library
 import openai
 
